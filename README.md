@@ -601,7 +601,7 @@ This project was developed as an academic project at **BUET** and is free for ed
 
 Made with ❤️ using **Java**, **JavaFX**, **Maven**, and **Socket Programming**
 
-**Repository:** [sajibmrbitz/TYPERUSH](https://github.com/sajibmrbitz/TYPERUSH)
+
 
 <br/>
 
